@@ -44,7 +44,7 @@ nginx
 
 ##  设计模式（常用）
 
-### 一 [单例模式](road_to_god/DesignPattern/Singleton.md)
+### 一 [单例模式](/DesignPattern/Singleton.md)
 ### 二-简单工厂模式
 
 ### 三-工厂方法模式
