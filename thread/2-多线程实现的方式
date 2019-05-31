@@ -1,0 +1,25 @@
+线程的实现：
+    继承Thread类
+    ```
+    public class MyThread extends Thread {
+        @Override
+        public void run() {
+            System.out.println("" + currentThread().getName());
+        }
+    }
+    
+    
+    ```
+    
+    
+    
+    实现Runnable接口
+    ```
+    public class MyRunnable implements Runnable {
+        public void run() {
+            
+        }
+    }
+    
+    
+    ```
